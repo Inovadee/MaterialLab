@@ -1,7 +1,4 @@
-Material Lab
+**Material Lab**
 
-Used to test Materials or for messing around
-
----------------------------------------------------------
-
-Made in Unreal Engine 4.27
+Made with Unreal Engine 5.7
+Just a project for making and trying out different material/shader implementations
